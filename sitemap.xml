@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://frzgenerations.netlify.app/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://frzgenerations.netlify.app/"/>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-generations.png</image:loc>
+      <image:title>FRZ Generations logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/og-image.png</image:loc>
+      <image:title>FRZ Generations: free tools, unlimited possibilities</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-edu.webp</image:loc>
+      <image:title>FRZ Edu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-public-library.webp</image:loc>
+      <image:title>FRZ Public Library logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-games.webp</image:loc>
+      <image:title>FRZ Games logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-care.webp</image:loc>
+      <image:title>FRZ Care logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-os.webp</image:loc>
+      <image:title>FRZ OS logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/frz-school-sync.webp</image:loc>
+      <image:title>FRZ School Sync logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://frzgenerations.netlify.app/assets/logos/1hos.webp</image:loc>
+      <image:title>1HOS logo</image:title>
+    </image:image>
+  </url>
+</urlset>
