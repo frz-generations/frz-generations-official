@@ -1,0 +1,41 @@
+# FRZ Generations
+
+> FRZ Generations is a free-for-life family of education, school-software, games, support and library platforms built in Kerala, India. Free tools. Unlimited possibilities.
+
+## Key facts
+- Founded: 2025, in Kerala, India
+- Price: free for life. FRZ Generations never charges money and does not restrict usage
+- Structure: four platforms (FRZ Edu, FRZ Games, FRZ Care, FRZ OS). FRZ Public Library is under FRZ Edu. FRZ School Sync and 1HOS are under FRZ OS
+- Owner: all ventures and branches are owned and managed by the CEO, Faraz Ahammed CM. FRZ Games also has a Managing Director, and 1HOS is built with the 1HOS Development Team
+- Privacy: apps without AI are 100% privacy protected. AI-backed apps use free third-party API models; the provider may impose limits or collect uploaded data, and FRZ Generations is not responsible for AI-backed apps
+- Goal: Project 2K30, shipping 30+ free platforms by 2030
+
+## Platforms (four platforms, with units nested under them)
+- [FRZ Edu](https://frzedu.netlify.app): The education branch. Twelve free study tools: flashcards, quizzes, study timer, short notes, revision notes, question papers, answer keys, SSLC notes, attendance register, Explain It, History Finder and printables.
+  - [FRZ Public Library](https://publiclibrary-frz.netlify.app): The open archive of FRZ Notes, under FRZ Edu. PDFs catalogued by serial number, title and class, free to download with no login.
+- [FRZ Games](https://frzgames.netlify.app): Free browser games for brain, logic and strategy, with a Hall of Fame. Currently in beta; a major rebuild is planned for 2027.
+- [FRZ Care](https://frzcare.netlify.app): The official support and policy portal: raise and track complaints, and read the Terms and Conditions, Privacy Policy, Cookies Policy, Disclaimer and Data and Content Removal policy.
+- [FRZ OS](https://frzos.netlify.app): The OS division. Builds Freezy OS (a desktop-style OS in the browser), FRZ School Sync, the FRZ EC Election System and 1HOS.
+  - [FRZ School Sync](https://schoolsync-frz.netlify.app): A free ERP for schools that syncs school operations in one system. Part of FRZ OS. Launched on 17 September at the smart classroom of PMSAPTHSS Kakkove.
+  - 1HOS: a private class portal under FRZ OS, for PMSAPTHSS Kakkove Humanities (+1) students and teachers only. It has no public link.
+
+## Policies and support
+- [FRZ Care](https://frzcare.netlify.app): support and policy portal
+- [Terms and Conditions](https://frzcare.netlify.app/termsandconditions)
+- [Privacy Policy](https://frzcare.netlify.app/privacypolicy)
+- [Cookies Policy](https://frzcare.netlify.app/cookiespolicy)
+- [Disclaimer](https://frzcare.netlify.app/disclaimer)
+- [Data and Content Removal](https://frzcare.netlify.app/dataremoval)
+- [Raise a complaint](https://frzcare.netlify.app/complaints)
+
+## People
+- [Faraz Ahammed CM](https://farazcm.netlify.app): CEO and Founder of FRZ Generations
+
+## Contact
+- Email: frzgenerations@gmail.com
+- WhatsApp: +91 70125 23494
+- Instagram: https://instagram.com/frz.generations
+
+## Full text
+- [llms-full.txt](https://frzgenerations.netlify.app/llms-full.txt)
+- [Home page](https://frzgenerations.netlify.app/)
